@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>1.0.0.0</version> <!-- La nouvelle version de ton application -->
+  <url>https://tonnom.github.io/tonprojet/tonapplication-mise-a-jour.rar</url> <!-- URL du fichier RAR -->
+  <changelog>https://tonnom.github.io/tonprojet/changelog.html</changelog> <!-- URL du changelog -->
+  <mandatory>false</mandatory>
+</item>
